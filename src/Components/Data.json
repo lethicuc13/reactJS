@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pacific rim",
+    "tel": "0967428391",
+    "Permission": 1
+  },
+  {
+    "id": 2,
+    "name": "IronMan",
+    "tel": "0867428391",
+    "Permission": 3
+  },
+  {
+    "id": 3,
+    "name": "Shaw",
+    "tel": "0767428391",
+    "Permission": 2
+  },
+  {
+    "id": 4,
+    "name": "Woman",
+    "tel": "0567428391",
+    "Permission": 1
+  },
+  {
+    "id": 5,
+    "name": "Aquaman",
+    "tel": "0867428391",
+    "Permission": 2
+  }
+]
